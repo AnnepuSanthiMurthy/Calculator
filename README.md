@@ -16,18 +16,7 @@ This is a simple calculator application implemented in Java. The calculator can 
 
 Make sure you have Java Development Kit (JDK) installed on your machine. You can download it from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 
-### Installation
 
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/java-calculator.git
-
-2.Navigate to the project directory:
-
-bash
-Copy code
-cd java-calculator
 
 
 EXAMPLE:
